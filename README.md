@@ -10,3 +10,5 @@ Execute `make all` and find the `embedded` executable that has been created in t
 
 ## Running with Docker
 Execute `./build-run-docker.sh`
+
+#### [Embedded demo original source https://github.com/cython/cython/tree/master/Demos/embed](https://github.com/cython/cython/tree/master/Demos/embed)
